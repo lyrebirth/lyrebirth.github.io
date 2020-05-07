@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-05T12:44:11.078Z</updated>
+  <updated>2020-05-07T04:27:17.311Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown语言编辑器推荐——Typora</title>
+    <link href="http://yoursite.com/2020/05/07/Markdown%E8%AF%AD%E8%A8%80%E7%BC%96%E8%BE%91%E5%99%A8%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94Typora/"/>
+    <id>http://yoursite.com/2020/05/07/Markdown%E8%AF%AD%E8%A8%80%E7%BC%96%E8%BE%91%E5%99%A8%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94Typora/</id>
+    <published>2020-05-07T04:11:40.918Z</published>
+    <updated>2020-05-07T04:27:17.311Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Markdown语言编辑器推荐————Typora"><a href="#Markdown语言编辑器推荐————Typora" class="headerlink" title="Markdown语言编辑器推荐————Typora"></a>Markdown语言编辑器推荐————Typora</h1><pre><code>鉴于hexo博客的文章是用的Markdown语言编写，那么一个好的编辑器就非常重要了，虽然VScode用着还行，但是我更推荐这款免费好用的编辑器——Typora，在我看来它的最大优点就是不需要再依赖图床了！！！我们可以直接将图片拖进编辑器，这个时候编辑器就会自动生成一串url链接以供我们使用，简直不要太方便！</code></pre><p><img src="C:%5CUsers%5C11594%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200507122636840.png" alt="image-20200507122636840"></p><pre><code>关于Typora的更多功能和优点我就不多说了，总之这个软件是真的非常丝滑，在这里直接附上官网链接，大家去下载吧。[Typora官网地址](https://typora.io/)</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Markdown语言编辑器推荐————Typora&quot;&gt;&lt;a href=&quot;#Markdown语言编辑器推荐————Typora&quot; class=&quot;headerlink&quot; title=&quot;Markdown语言编辑器推荐————Typora&quot;&gt;&lt;/a&gt;Markdown语言编
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>前端学习路线</title>
